@@ -1,0 +1,8 @@
+.env
+
+newenv/
+
+*.log
+
+*.sqlite3
+*.db
